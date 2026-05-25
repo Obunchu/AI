@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-.env
-venv/
-full_img_embeddings.npy
-*.csv
